@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements MyEditText.Select
     private TextView text;
     private MyEditText editText;
 
-    private String Tag = "master";
+    private String Tag = "branch1";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
