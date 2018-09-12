@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity implements MyEditText.Select
     private MyEditText editText;
 
     private String Tag = "master01";
+    private String masterTag = "tag";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
